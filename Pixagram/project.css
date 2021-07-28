@@ -1,0 +1,40 @@
+.heading
+	{
+	text-align:center;
+	font-family:Agency FB;
+	font-size:50px;
+	letter-spacing:5px;
+	color:#e6ffff;
+	text-shadow:2px 2px 3px gray;
+	}
+
+.page
+	{
+	background-image:linear-gradient(white,white,white,silver);
+	}
+
+.photo
+	{
+	border:solid 7px white;
+	box-shadow:2px 2px 5px silver;
+	margin:10px;
+	}
+
+.smallbox
+	{
+	border:solid 1px #e8e8e8;
+	padding:20px;
+	background-color:white;
+	box-shadow:2px 2px 5px gray;
+	border-radius:10px;
+	}
+
+.borderbox
+	{
+	border:solid 20px white;
+	box-shadow:5px 5px 10px silver;
+	font-family:arial;
+	font-size:18px;
+	color:gray;
+	background-color:#f8f8f8;
+	}
